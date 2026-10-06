@@ -1,5 +1,11 @@
 # 🔐 LAB PASETO V3 — API REST CRUD con PASETO, Roles, Validaciones y Swagger
 
+> 📄 **Documentación del laboratorio:** [`LABORATORIO - PASETO - V1 - V2 - V3.pdf`](./LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf)
+>
+> Informe único que documenta **las tres versiones** del laboratorio (V1, V2 y V3),
+> con la explicación de cada una, las pruebas ejecutadas y sus capturas.
+> El mismo archivo se encuentra en las carpetas `lab-paseto-v1/`, `lab-paseto-v2/` y `lab-paseto-v3/`.
+
 ## 1. Descripción
 
 Este laboratorio implementa una **API REST con Node.js y Express** que utiliza **PASETO v4.public** para autenticación mediante tokens.

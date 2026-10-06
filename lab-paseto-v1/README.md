@@ -1,5 +1,11 @@
 # Laboratorio: Autenticación con PASETO en Node.js y Express
 
+> 📄 **Documentación del laboratorio:** [`LABORATORIO - PASETO - V1 - V2 - V3.pdf`](./LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf)
+>
+> Informe único que documenta **las tres versiones** del laboratorio (V1, V2 y V3),
+> con la explicación de cada una, las pruebas ejecutadas y sus capturas.
+> El mismo archivo se encuentra en las carpetas `lab-paseto-v1/`, `lab-paseto-v2/` y `lab-paseto-v3/`.
+
 ## 1. Introducción
 
 En este laboratorio construiremos una API sencilla con **Node.js + Express** para comprender el funcionamiento de **PASETO (Platform-Agnostic Security Tokens)**.

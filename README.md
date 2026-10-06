@@ -12,6 +12,20 @@ PASETO básico   →     + Roles y Swagger  →    + CRUD y validaciones
 
 ---
 
+## 📄 Documentación
+
+El informe del laboratorio documenta **las tres versiones en un solo documento**:
+
+> [**LABORATORIO - PASETO - V1 - V2 - V3.pdf**](./lab-paseto-v1/LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf)
+
+Incluye la explicación de cada versión, las pruebas ejecutadas y sus capturas.
+Por comodidad, el mismo archivo está dentro de las tres carpetas:
+[`v1`](./lab-paseto-v1/LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf) ·
+[`v2`](./lab-paseto-v2/LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf) ·
+[`v3`](./lab-paseto-v3/LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf)
+
+---
+
 ## Las tres versiones
 
 | | Carpeta | Qué agrega | Endpoints | Pruebas |
@@ -20,7 +34,8 @@ PASETO básico   →     + Roles y Swagger  →    + CRUD y validaciones
 | **V2** | [`lab-paseto-v2/`](./lab-paseto-v2) | Usuarios locales, roles, autorización, Swagger, SCA | 4 | 13 |
 | **V3** | [`lab-paseto-v3/`](./lab-paseto-v3) | CRUD completo, validaciones con `express-validator` | 8 | 27 |
 
-Cada carpeta tiene su propio `README.md` con la guía completa del laboratorio.
+Cada carpeta tiene su propio `README.md` con la guía completa del laboratorio
+y una copia del informe en PDF.
 
 ---
 

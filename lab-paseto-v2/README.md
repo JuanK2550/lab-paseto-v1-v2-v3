@@ -1,5 +1,11 @@
 # 🔐 LAB PASETO V2
 
+> 📄 **Documentación del laboratorio:** [`LABORATORIO - PASETO - V1 - V2 - V3.pdf`](./LABORATORIO%20-%20PASETO%20-%20V1%20-%20V2%20-%20V3.pdf)
+>
+> Informe único que documenta **las tres versiones** del laboratorio (V1, V2 y V3),
+> con la explicación de cada una, las pruebas ejecutadas y sus capturas.
+> El mismo archivo se encuentra en las carpetas `lab-paseto-v1/`, `lab-paseto-v2/` y `lab-paseto-v3/`.
+
 API REST desarrollada con **Node.js + Express** para estudiar la autenticación y autorización mediante **PASETO v4.public**.
 
 Esta segunda versión amplía el laboratorio inicial incorporando:
