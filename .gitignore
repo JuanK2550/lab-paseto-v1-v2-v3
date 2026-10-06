@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (cada quien crea su propio .env a partir de .env.example)
+.env
+
+# Capturas de pantalla de las pruebas (no se publican)
+pruebas/capturas/
+pruebas/capturas.zip
+
+# Sistema operativo / editores
+Thumbs.db
+.DS_Store
+.vscode/
